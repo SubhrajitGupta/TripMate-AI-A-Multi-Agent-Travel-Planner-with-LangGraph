@@ -25,7 +25,7 @@ all coordinated through a LangGraph workflow.
 
 ## Tech Stack
 
-- Python 3.10+
+- Python 3.13+
 - FastAPI
 - Jinja2 + HTML/CSS/JavaScript frontend
 - LangGraph
